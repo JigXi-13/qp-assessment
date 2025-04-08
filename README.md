@@ -121,6 +121,10 @@ Uses **Jest** and **Supertest** for route testing.
 
 ---
 
+## Development Notes
+
+During the development of this project, I utilized AI assistants such as Claude and ChatGPT to help with code generation, debugging, and problem-solving. While these tools provided valuable assistance, I've taken care to understand each line of code, resolve bugs independently, and ensure the architecture aligns with best practices. This approach allowed me to learn efficiently while maintaining full ownership and comprehension of the codebase.
+
 ## 👨‍💻 Author
 
 Made with ❤️ by **Jigish Vyas**
